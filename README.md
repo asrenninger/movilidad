@@ -1,2 +1,7 @@
 # movilidad
-mobility + heat
+a paper on mobility + heat
+
+## abstract
+Extreme heat is a growing problem in European countries with rising temperatures and aging populations especially vulnerable to them. Research documents the consequences of high temperatures for economic growth and public health, but the effect of heat on the activities and behaviors that contribute to these consequences is less clear; with greater understanding of how populations react to heat waves, we can target policies to harden society against rising temperatures. Using rich mobility data that allows us to stratify according to age, gender, class and the type of activity, here we explore the consequences of extreme heat for mobility in Spain. Activity falls by as much as 8% on hot days and as much as 20% on hot afternoons, when temperatures are highest. People are less likely to forego frequent, routine activities relative to infrequent ones—and least likely to miss work. We identify significant differences across groups and activities, with oldest most likely to avoid travel to work while cutting back most on other activities and the poorest are least likely to avoid travel to work—perhaps because they are least able to afford missing it, or perhaps because they are least able to work from home. Our results highlight the complex ways heat influences mobility and suggests hidden costs, from decreased foot traffic for restaurants to increased exposure to deleterious conditions for workers. 
+
+![](https://github.com/asrenninger/movilidad/blob/main/espanabundle.png?raw=true)
